@@ -1,0 +1,9 @@
+C:\Users\Koko\Desktop\MataDewa4\bin\Debug\AvionicsInstrumentControlDemo.exe
+C:\Users\Koko\Desktop\MataDewa4\bin\Debug\AvionicsInstrumentControlDemo.pdb
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\AvionicsInstrumentControlDemo.DemoWinow.resources
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\MataDewa4.csproj.GenerateResource.Cache
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\AvionicsInstrumentControlDemo.exe
+C:\Users\Koko\Desktop\MataDewa4\obj\Debug\AvionicsInstrumentControlDemo.pdb

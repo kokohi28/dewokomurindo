@@ -1,0 +1,8 @@
+frmhome 
+	W = 10695, H = 9255.. T = 720, L = 2400
+frmlogdatabottom
+	W = 10695, H = 1575.. T = 8510, L = 2400
+frmmaps
+	W = 7455, H = 7695.. T = 720, L = 2400
+frmcapture / frmgpstracker
+	W = 3255, H = 3375.. T = 720, L = 9840
